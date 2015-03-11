@@ -1,4 +1,4 @@
-forked from dangoakachan/lookup-ip
+forked from dangoakachan/lookup-ip, 添加了查询本机的local IP地址功能
 Intro
 =====
 
